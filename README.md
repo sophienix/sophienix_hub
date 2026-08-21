@@ -1,4 +1,4 @@
-# Sophienix's Hub — Public Version
+# Sophienix's Hub
 
 ## Tabs
 
